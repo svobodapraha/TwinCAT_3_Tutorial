@@ -118,7 +118,7 @@ END_VAR
                                   <v n="Address">""</v>
                                   <o n="Flags" t="Flags">
                                     <v n="Extensible">false</v>
-                                    <v n="Flags">0</v>
+                                    <v n="Flags">1</v>
                                     <v n="Fixed">true</v>
                                   </o>
                                   <v n="LValue">false</v>
@@ -171,7 +171,7 @@ END_VAR
                               <v n="Address">""</v>
                               <o n="Flags" t="Flags">
                                 <v n="Extensible">false</v>
-                                <v n="Flags">1</v>
+                                <v n="Flags">0</v>
                                 <v n="Fixed">true</v>
                               </o>
                               <v n="LValue">false</v>
